@@ -13,11 +13,3 @@ Things I Learned:
 1. Interacting with the DOM
 2. Google Chrome Extension structure
 3. Debugging code in Console
-
-Demo: 
-
-Weekly Summary Report
-
-
-Monthly Summary Report
-
