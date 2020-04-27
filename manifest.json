@@ -1,0 +1,17 @@
+{
+    "name": "Time Logged",
+    "version": "0.1.0",
+    "description": "This extension will help you easily see how much time you have logged, and whether it meets the 90% guideline.",
+    "content_scripts": [
+        {
+            "matches": ["https://yardicrm/crmlivecsd/*"],
+            "js": ["logTime.js"]
+        }   
+    ],
+    "icons": {
+    "16": "images/yardi_logo16.png",
+    "48": "images/yardi_logo48.png",
+    "128": "images/yardi_logo128.png"
+    },
+    "manifest_version": 2
+}
