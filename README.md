@@ -15,6 +15,7 @@ Things I Learned:
 3. Debugging code in Console
 
 _Demo_
+
 Weekly Summary
 
 <p align="center">
