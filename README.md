@@ -1,7 +1,7 @@
 # timeLogged
 Log Time Chrome Extension
 
-480
+_480_
 
 That's the number of minutes in a 100% productive, 8 hour workday. Easy to remember? Sure. But, say your metrics are tracked by 90% threshold by the Week and the Month. Ideally, you'd hit 100% every day, and wouldn't need to worry about being short of the mark weekly or monthly. Sadly, that's not realistic.
 
@@ -13,3 +13,15 @@ Things I Learned:
 1. Interacting with the DOM
 2. Google Chrome Extension structure
 3. Debugging code in Console
+
+_Demo_
+Weekly Summary
+
+<p align="center">
+  <img src="/images/demo/weeklySummary.gif" width="390px" align="center" alt="demoWeekly" />
+</p>
+
+Monthly Summary
+<p align="center">
+  <img src="/images/demo/monthlySummary.gif" width="390px" align="center" alt="demoMonthly" />
+</p>
